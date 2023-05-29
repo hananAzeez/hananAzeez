@@ -1,30 +1,62 @@
-<h1 align="center">Hi, I'm Hanan 👋</h1>
-<h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<h3 align="center">
+    Hi, I'm Hanan👋
+</h3>
 
-
-
-- 🔭 I’m currently working on **something cool**
-
-- 🌱 I’m currently learning **fullstack development**
-
-- 👯 I’m looking to collaborate on **fullstack projects**
-
-- 💬 Ask me about **anything <a href="https://www.linkedin.com/in/hanan-abdul-azeez-453590231">Hanan</a>**
-
-- 📫 How to reach me **<a href="https://www.linkedin.com/in/hanan-abdul-azeez-453590231">Linkedin</a>**
-
-- ⚡ Fun fact **I love typing⌨**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hananazeez3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hananazeez3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hanan abdul azeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanan abdul azeez" height="30" width="40" /></a>
-<a href="https://instagram.com/hanan.a.azeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hanan.a.azeez" height="30" width="40" /></a>
+<p align="center">
+<!--   <em>
+    I am a 3rd Year undergraduate from <b>Wmo Arts and Science College</b>, Wayanad, Kerala. 
+  </em> -->
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+developer&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22" alt="Frontend Developer">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <a href="https://t.me/hanan_azeez"><img width="32px" alt="Telegram" title="Telegram" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/hanan.a.azeez"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wa.me/+918589821643"><img width="32px" alt="Whatsapp" title="Whatsapp" src="https://cdn-icons-png.flaticon.com/512/220/220236.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/hanan#1010"><img width="32px" alt="Discord" title="Discord" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/hanan abdul azeez"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn-icons-png.flaticon.com/512/145/145807.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/hananazeez3"><img width="32px" alt="Twitter" title="Twitter" src="https://cdn-icons-png.flaticon.com/512/179/179342.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mail.midlajc@gmail.com"><img width="32px" alt="gamil" title="gamil" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hananazeez&show_icons=true&locale=en&layout=compact" alt="hananazeez" /></p>
+<br>
 
+<img alt="Hanan's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=hananAzeez&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" align="left"/>
+
+
+<a href="" align="right"><img alt="Hanan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananAzeez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,hananAzeez.github.io" /></a>
+<br>
+<br>
+<br>
+
+
+
+
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/typescript.png"/>&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/react-native.png"/>&nbsp;<img src="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2147555239/settings_images/sztBYO9XSDmP7U3Fc6z1_15vw4q9kSO61gvM6iEuv_Server_Side_Rendering_for_Dummies.png" style="width: 48px; height: 48px;"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;
+</p>
+
+<h3 align="center">Softwares and Tools</h3>
+
+<p align="center">
+<img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"/>&nbsp;<img src="https://img.icons8.com/?size=48&id=vEiU8UeAmv0x&format=png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/console.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+</p>
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+</p>
+
+
+
+<br>
