@@ -50,12 +50,12 @@
 <p align="center">
 <img src="https://img.icons8.com/fluency/50/000000/visual-studio-code-2019.png"/>&nbsp;<img src="https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png"/>&nbsp;<img src="https://img.icons8.com/?size=48&id=vEiU8UeAmv0x&format=png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/console.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 </p>
-
+<!-- 
 <h3 align="center">Databases</h3>
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>&nbsp;<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-</p>
+</p> -->
 
 
 
