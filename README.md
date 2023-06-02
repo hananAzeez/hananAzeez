@@ -27,12 +27,14 @@
 
 <br>
 
-<img alt="Hanan's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=hananAzeez&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" align="left"/>
+<!-- <img alt="Hanan's Top Languages" src="https://github-readme-streak-stats.herokuapp.com?user=hananAzeez&theme=react&hide_border=true&bg_color=0D1117&date_format=M%20j%5B%2C%20Y%5D" align="left"/> -->
 
 
-<a href="" align="right"><img alt="Hanan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananAzeez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,hananAzeez.github.io" /></a>
-<br>
-<br>
+<p align="center">
+  <a href="">
+    <img alt="Hanan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananAzeez&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&exclude_repo=key-keeper,tezla-web,scholarship-portal,hananAzeez.github.io" />
+  </a>
+</p>
 <br>
 
 
